@@ -2,6 +2,3 @@ out
 .env
 learn-cicd-starter
 notely
-
-# Jetbrains
-.idea/
